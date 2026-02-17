@@ -1,2 +1,2 @@
 # OpenClawMonitor
-OpenCalw Service monitoring tool
+OpenClaw Service monitoring tool
